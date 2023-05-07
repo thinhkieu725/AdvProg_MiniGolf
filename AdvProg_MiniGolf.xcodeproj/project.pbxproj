@@ -30,7 +30,6 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0700FD7B2A073642000F8954 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		070922E62A001F88007B8BC2 /* hole.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = hole.mp3; sourceTree = "<group>"; };
 		070922E72A001F88007B8BC2 /* swing.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = swing.mp3; sourceTree = "<group>"; };
 		070922E82A001F88007B8BC2 /* charge.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = charge.mp3; sourceTree = "<group>"; };
@@ -177,7 +176,6 @@
 				0709230A2A0020ED007B8BC2 /* RenderWindow.h */,
 				070923062A0020EC007B8BC2 /* Tile.h */,
 				07E504B62A00C84B00BAF9A4 /* Constants.h */,
-				0700FD7B2A073642000F8954 /* README.md */,
 			);
 			path = AdvProg_MiniGolf;
 			sourceTree = "<group>";
